@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "PhoneNumberKit",
-        "repositoryURL": "https://github.com/marmelroy/PhoneNumberKit.git",
+        "repositoryURL": "git@github.com:renatokorez/PhoneNumberKit.git",
         "state": {
           "branch": null,
-          "revision": "edbd0b43e914083c3b8af9403f64ac80f8270e47",
-          "version": "3.3.0"
+          "revision": "c7d7b0c91ef0ad7e413022edfcf5d6f75561e2d5",
+          "version": "3.3.1"
         }
       }
     ]
